@@ -226,7 +226,7 @@ table {
 }
 
 #portfolio {
-  background-image: url(bg-portfolio.jpg);
+  background-image: url(../bg-portfolio.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -264,7 +264,7 @@ a img:hover {
 }
 
 #photograph {
-  background-image: url(bg-photograph.jpg);
+  background-image: url(../bg-photograph.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -282,7 +282,7 @@ a img:hover {
 }
 
 #video {
-  background-image: url(bg-video.jpg);
+  background-image: url(../bg-video.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -290,7 +290,7 @@ a img:hover {
 }
 
 #contact {
-  background-image: url(bg-contact.jpg);
+  background-image: url(../bg-contact.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -443,7 +443,7 @@ a img:hover {
   }
   
   #portfolio {
-    background-image: url(bg-portfolio-sp.jpg);
+    background-image: url(../bg-portfolio-sp.jpg);
   }
   
   .sidebar {
